@@ -1,2 +1,2 @@
-# Collaborative-Drawing-Program
-A program that lets many people draw on the same canvas
+# Collaborative Drawing Program
+ A program that lets people draw on the same canvas (with chat)
