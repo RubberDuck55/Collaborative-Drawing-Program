@@ -1,3 +1,5 @@
+const functions = require('firebase-functions');
+
 var express = require('express');
 
 var app = express();
